@@ -1,6 +1,5 @@
 # Set up ClashVPN on Your Kali Linux
-In countires such as China, you often need vpn to access contents such as Youtube, Google, Linkedin, and etc. Or you simply need a vpn connection to access company internet or something. 
-Here in this repositroy, I will summarize on way to set up ClashVPN on your Kali Linux machine. 
+In places like China, getting to sites like YouTube, Google, or LinkedIn often needs a VPN. Sometimes, it's just about connecting to your company's network. Here, I've got the tips you need to set up ClashVPN on your Kali Linux machine. Easy access, secure browsing!
 
 ## Download 
 From [here](https://archive.org/download/clash_for_windows_pkg), download relevant file according to your operating system.
